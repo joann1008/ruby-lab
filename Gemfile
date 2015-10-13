@@ -8,6 +8,7 @@ source 'https://rubygems.org'
     gem 'turbolinks',   '2.3.0'
     gem 'jbuilder',     '2.2.3'
     gem 'sdoc',         '0.4.0', group: :doc
+    gem 'bcrypt',       '3.1.7'
 gem 'bootstrap-sass',       '3.2.0.0'
 
     group :development, :test do
